@@ -5,7 +5,6 @@ import Menu from './Menu';
 import Acordeon from './Acordeon';
 import Cards from './Cards';
 import './estilos.css';
-
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
